@@ -1,0 +1,14 @@
+1. Membuat hyperlink menuju halaman2.html
+2. Membuat hyperlink menuju https://google.com
+3. Membuat hyperlink menuju tag yang memiliki id="referensi"
+4. Membuka hyperlink di tab baru
+5. Membuat checkbox yang digunakan untuk menginput nilai
+6. Memberi nama pada sebuah nilai
+7. Membuat input berjenis text
+8. Memberi id="txtKota" pada sebuah nilai
+9. Memberi nilai height maksimal 20 pixel
+10. Membuat text area
+11. Memberi nilai kolom maksimal 20 pixel
+12. Membuat spasi
+13. Membuat apapun di dalamnya menjadi berjalan (animated)
+14. Membuat apapun di dalamnya menjadi berkedip-kedip (animated)
