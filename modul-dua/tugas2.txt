@@ -6,7 +6,7 @@
 6. Memberi nama pada sebuah nilai
 7. Membuat input berjenis text
 8. Memberi id="txtKota" pada sebuah nilai
-9. Memberi nilai height maksimal 20 pixel
+9. Memberi nilai length maksimal 20 karakter
 10. Membuat text area
 11. Memberi nilai kolom maksimal 20 pixel
 12. Membuat spasi
