@@ -36,3 +36,16 @@ SELECT SUM(Nilai_Angka) 'Total Nilai' FROM Nilai;
 -- Perrcobaan 10 (View)
 CREATE VIEW KHS AS SELECT Mahasiswa.NIM, Nilai.Nama_MK, Nilai.Nilai_Angka, Nilai.Nilai_Huruf FROM (Mahasiswa INNER JOIN Nilai ON Mahasiswa.NIM=Nilai.NIM);
 SELECT * FROM KHS;
+
+-- Tugas
+-- 1.1. SELECT digunakan untuk menampilkan isi tabel
+-- 1.2. JOIN digunakan untuk menggabungkan isi tabel
+-- 1.3. LEFT JOIN digunakan untuk menggabungkan isi tabel sisi kiri, tanpa menghiraukan sisi kanan punya nilai atau tidak
+-- 1.4. RIGHT JOIN digunakan untuk menggabungkan isi tabel sisi kanan, tanpa menghiraukan sisi kiri punya nilai atau tidak
+-- 1.5. AVG digunakan untuk menghitung rata-rata nilai
+-- 1.6. SUM digunakan untuk menghitung total nilai
+-- 
+-- 2. UPDATE Mahasiswa SET Alamat='Sragen' WHERE NIM='L200080002';
+-- 
+-- 
+-- 
