@@ -65,11 +65,12 @@
                     $hasil_cari = mysqli_query($conn, $cari);
 
                     while($data=mysqli_fetch_row($hasil_cari)){
+                        // print_r($data);
                         echo "
                             <tr>
                                 <td width='20%'>$data[0]</td>
                                 <td width='30%'>$data[1]</td>
-                                <td width='10%'>$data[2]</td>
+                                <td width='10%'>$data[5]</td>
                             </tr>
                         ";
                     }
